@@ -1,1 +1,1 @@
-![](mesh\lexus01.png)
+![](mesh/lexus01.png)
